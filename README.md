@@ -16,7 +16,7 @@
  -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmanpani&show_icons=true&locale=en&layout=compact" alt="ayushmanpani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmanpani&show_icons=true&locale=en&layout=compact" alt="ayushmanpani" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmanpani&show_icons=true&locale=en" alt="ayushmanpani" /></p> -->
 
