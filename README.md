@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
-<h3 align="center">A machine learning enthusiast from India</h3>
+<h3 align="center">Detail-oriented web developer skilled in building full-stack applications using React, TypeScript, Node.js, and MongoDB. Focused on creating scalable and user-friendly solutions with real-world impact. Strong in problem solving, teamwork, and the delivery of high-quality projects using modern technologies.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanpani&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanpani" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanpani&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanpani" /> </p> -->
 
 
 
