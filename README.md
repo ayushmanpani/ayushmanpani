@@ -16,10 +16,10 @@
  -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmanpani&show_icons=true&locale=en&layout=compact" alt="ayushmanpani" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmanpani&show_icons=true&locale=en&layout=compact" alt="ayushmanpani" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmanpani&show_icons=true&locale=en" alt="ayushmanpani" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmanpani&" alt="ayushmanpani" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmanpani&" alt="ayushmanpani" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmanpani" alt="ayushmanpani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmanpani" alt="ayushmanpani" /></a> </p> --> -->
