@@ -1,25 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ayushman</h1>
-<h3 align="center">Detail-oriented web developer skilled in building full-stack applications using React, TypeScript, Node.js, and MongoDB. Focused on creating scalable and user-friendly solutions with real-world impact. Strong in problem solving, teamwork, and the delivery of high-quality projects using modern technologies.</h4>
+👋 Hi, I’m Ayushman Pani
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanpani&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanpani" /> </p> -->
+I’m a Computer Science (AI & ML) undergraduate with a strong interest in building real-world machine learning and LLM-based systems, not just models that run in notebooks.
 
+I enjoy working at the intersection of Machine Learning, Backend Engineering, and Applied AI, focusing on systems that are:
 
+correct
 
+explainable
 
-<!-- <p align="left"
-<a href="https://twitter.com/carat148l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carat148l" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishasingh" height="30" width="40" /></a>
-<a href="https://instagram.com/sketchbling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sketchbling" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alishasingh2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alishasingh2501" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alisha2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisha2501" height="30" width="40" /></a>
-</p> 
- -->
+production-oriented
 
+and debuggable
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmanpani&show_icons=true&locale=en&layout=compact" alt="ayushmanpani" /></p>
+🧠 What I work on
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmanpani&show_icons=true&locale=en" alt="ayushmanpani" /></p> -->
+Machine Learning & Deep Learning
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmanpani&" alt="ayushmanpani" /></p>
+TensorFlow / Keras, PyTorch
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmanpani" alt="ayushmanpani" /></a> </p> -->
+Classification, time-series, computer vision
+
+Model evaluation and optimization
+
+LLM & RAG Systems
+
+Document Q&A and compliance assistants
+
+LangChain, HuggingFace Transformers
+
+FAISS-based vector search
+
+Metadata-aware retrieval and source attribution
+
+Backend for AI Systems
+
+FastAPI + Uvicorn
+
+ML model serving as APIs
+
+File ingestion pipelines, metadata handling
+
+Clean and modular backend architecture
+
+Applied AI Projects
+
+ECG signal classification (API-based)
+
+Smart traffic monitoring using computer vision and IoT
+
+Financial optimization and budgeting systems
+
+YOLO-based vehicle detection and tracking
+
+🛠 Tech Stack
+
+Languages:
+Python, JavaScript, TypeScript
+
+ML / AI:
+TensorFlow, Keras, PyTorch, Scikit-learn
+LangChain, HuggingFace Transformers
+
+Backend & Data:
+FastAPI, REST APIs, FAISS, MongoDB
+
+Frontend & Tools:
+React, Streamlit, Git, Linux/WSL, Google Colab
+
+🚀 How I approach problems
+
+I care about system design, not just code
+
+I debug issues deeply instead of adding hacks
+
+I build projects that are interview-ready and industry-aligned
+
+I value clarity, reproducibility, and correctness
+
+Most of my projects are built end-to-end — from data ingestion → model → API → UI.
+
+🎯 Current goals
+
+Build strong portfolio-grade ML & LLM projects
+
+Improve MLOps and deployment skills
+
+Prepare for ML/AI internships and roles at top tech companies
+
+Learn more about security and reliability of AI systems
+
+📫 Let’s connect
+
+💼 Interested in ML, LLMs, or backend AI systems
+
+🤝 Open to collaboration on meaningful projects
+
+Feel free to explore my repositories or reach out.
