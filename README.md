@@ -1,98 +1,102 @@
-👋 Hi, I’m Ayushman Pani
+<h1 align="center">Hi 👋, I'm Ayushman Pani</h1>
+<h3 align="center">AI & Machine Learning Engineer | Backend-focused | Real-world Systems</h3>
 
-I’m a Computer Science (AI & ML) undergraduate with a strong interest in building real-world machine learning and LLM-based systems, not just models that run in notebooks.
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=ayushmanpani&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-I enjoy working at the intersection of Machine Learning, Backend Engineering, and Applied AI, focusing on systems that are:
+---
 
-correct
+## 🧠 About Me
 
-explainable
+🎓 Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**  
+⚙️ Passionate about building **production-grade AI systems**, not just notebooks  
+🧩 Strong focus on **backend architecture, ML APIs, and LLM pipelines**
 
-production-oriented
+I enjoy working on problems where **ML meets real-world constraints** — data quality, system design, deployment, and explainability.
 
-and debuggable
+---
 
-🧠 What I work on
+## 🔍 What I Work On
 
-Machine Learning & Deep Learning
+### 🤖 Machine Learning & Deep Learning
+- Classification, time-series, and signal processing
+- TensorFlow / Keras, PyTorch
+- Model evaluation, optimization, and deployment
 
-TensorFlow / Keras, PyTorch
+### 🧠 LLM & RAG Systems
+- Document Q&A and compliance assistants
+- LangChain + HuggingFace Transformers
+- FAISS vector search with metadata-aware retrieval
+- Source attribution and audit-safe responses
 
-Classification, time-series, computer vision
+### 🧩 Backend for AI
+- FastAPI + Uvicorn
+- ML model serving as REST APIs
+- File ingestion pipelines & persistent metadata handling
+- Modular, scalable backend design
 
-Model evaluation and optimization
+### 🌍 Applied AI Projects
+- ECG classification systems (API-based)
+- Smart traffic monitoring using computer vision & IoT
+- Financial optimization and budgeting models
+- YOLO-based vehicle detection and tracking
 
-LLM & RAG Systems
+---
 
-Document Q&A and compliance assistants
+## 🛠 Tech Stack
 
-LangChain, HuggingFace Transformers
+**Languages**  
+`Python` `JavaScript` `TypeScript`
 
-FAISS-based vector search
+**AI / ML**  
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn`  
+`LangChain` `HuggingFace Transformers`
 
-Metadata-aware retrieval and source attribution
+**Backend & Data**  
+`FastAPI` `REST APIs` `FAISS` `MongoDB`
 
-Backend for AI Systems
+**Frontend & Tools**  
+`React` `Streamlit` `Git` `Linux / WSL` `Google Colab`
 
-FastAPI + Uvicorn
+---
 
-ML model serving as APIs
+## 🚀 How I Build
 
-File ingestion pipelines, metadata handling
+✔️ Think in **systems**, not scripts  
+✔️ Debug deeply instead of applying hacks  
+✔️ Write **clean, explainable, and maintainable code**  
+✔️ Build projects that are **interview-ready and industry-aligned**
 
-Clean and modular backend architecture
+Most of my projects are end-to-end:
+> **Data → Model → API → UI**
 
-Applied AI Projects
+---
 
-ECG signal classification (API-based)
+## 🎯 Current Focus
 
-Smart traffic monitoring using computer vision and IoT
+- Strengthening **LLM & RAG architectures**
+- Learning **MLOps & deployment best practices**
+- Building **portfolio-grade AI projects**
+- Preparing for **ML / AI internships & roles**
+- Exploring **AI system reliability and security**
 
-Financial optimization and budgeting systems
+---
 
-YOLO-based vehicle detection and tracking
+## 📊 GitHub Stats
 
-🛠 Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanpani&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanpani&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-Languages:
-Python, JavaScript, TypeScript
+---
 
-ML / AI:
-TensorFlow, Keras, PyTorch, Scikit-learn
-LangChain, HuggingFace Transformers
+## 🤝 Let’s Connect
 
-Backend & Data:
-FastAPI, REST APIs, FAISS, MongoDB
+💬 Interested in **AI, ML, LLMs, or backend systems**  
+🤝 Open to collaboration on meaningful projects  
 
-Frontend & Tools:
-React, Streamlit, Git, Linux/WSL, Google Colab
-
-🚀 How I approach problems
-
-I care about system design, not just code
-
-I debug issues deeply instead of adding hacks
-
-I build projects that are interview-ready and industry-aligned
-
-I value clarity, reproducibility, and correctness
-
-Most of my projects are built end-to-end — from data ingestion → model → API → UI.
-
-🎯 Current goals
-
-Build strong portfolio-grade ML & LLM projects
-
-Improve MLOps and deployment skills
-
-Prepare for ML/AI internships and roles at top tech companies
-
-Learn more about security and reliability of AI systems
-
-📫 Let’s connect
-
-💼 Interested in ML, LLMs, or backend AI systems
-
-🤝 Open to collaboration on meaningful projects
-
-Feel free to explore my repositories or reach out.
+Feel free to explore my repositories or reach out!
